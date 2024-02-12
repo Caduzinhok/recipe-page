@@ -7,6 +7,10 @@ Based on challenge in <a href="https://www.frontendmentor.io/challenges/recipe-p
 
 <img src="./assets/images/image1.PNG" alt="Finished Project">
 
+## Mobile View
+
+<img src="./assets/images/image2.PNG" alt="Finished Project">
+
 ## What i'm learning
 
 <ul>
